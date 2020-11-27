@@ -1,0 +1,15 @@
+{
+  "name": "03-node-bases",
+  "version": "1.0.0",
+  "description": "Esta es una app de linea de comando",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Joinner Medina",
+  "license": "ISC",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "yargs": "^16.1.1"
+  }
+}
